@@ -1,0 +1,2 @@
+# n8n-Analyze-client-portfolio-diversification-using-Google-Sheets-OpenAI-and-Slack
+Client Portfolio Diversification Check automates portfolio analysis with n8n, Google Sheets, OpenAI and Slack. It evaluates sector allocation, diversification and risk, detects overexposed sectors, generates AI-powered investment insights, sends Slack alerts and saves detailed portfolio reports to Google Sheets automatically.
